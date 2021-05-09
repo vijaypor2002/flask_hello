@@ -1,6 +1,5 @@
 requests==2.23.0
 Flask==1.1.2
-tensorflow_gpu==2.0.0
 numpy==1.19.5
 opencv_python==4.1.1.26
 mysql_connector_repackaged==0.3.1
